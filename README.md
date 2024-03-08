@@ -32,9 +32,7 @@ Xposed is a framework for modules that can change the behavior of the system and
 
 ### Get Help
 
-Only bug reports from THE LATEST DEBUG BUILD will be accepted.
-- GitHub issues: [Issues](#) <!-- Update the link with the actual URL -->
-- (For Chinese speakers) 本项目只接受英语标题的issue。如果您不懂英语，请使用翻译工具
+Bug reports to soon be implemented. I'll most likely create a telegram for that ;)
 
 ### For Developers
 
