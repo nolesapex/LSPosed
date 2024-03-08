@@ -46,7 +46,7 @@ We use our own module repository and welcome developers to submit modules for in
 
 ### Community Discussion
 
-- Telegram: [@LSPosed](#) <!-- Update if there's a new community channel -->
+- Telegram: [@MoiSposed](#) <!-- Update if there's a new community channel -->
 
 > Notice: These community groups don't accept any bug reports. Please use the "Get help" section to report issues.
 
